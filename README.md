@@ -84,18 +84,6 @@
 	document.write('<scr' + 'ipt type="text/javascript" src="//conjunctionrepresentativepowerless.com/32a3921042f800091bb1ad96c37de5a0/invoke.js"></scr' + 'ipt>');
 </script>
     </header>
-    <header>
-	   <script type="text/javascript">
-	atOptions = {
-		'key' : '7880b5fa89be7424fff5619abe1317c4',
-		'format' : 'iframe',
-		'height' : 300,
-		'width' : 160,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//conjunctionrepresentativepowerless.com/7880b5fa89be7424fff5619abe1317c4/invoke.js"></scr' + 'ipt>');
-</script> 
-    </header>
     <body>
 
   <div style="float: left; width: 50%;">

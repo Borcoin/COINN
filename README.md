@@ -6,10 +6,15 @@
     <title>Seu Título Aqui</title>
 </head>
 <body>
-	background-color: #000000;
     <!-- Conteúdo da página vai aqui -->
 </body>
     <header>
+	    <style>
+    body {
+      background-color: #000000; /* Cor preta em formato hexadecimal */
+    }
+  </style>
+    </header>
 <body>
 <script type="text/javascript">
 	atOptions = {

@@ -8,7 +8,7 @@
       float: left;
       width: 50%; /* Ou ajuste a largura desejada para cada anúncio */
       box-sizing: border-box;
-      padding: 0 30px; /* Adicione algum espaçamento entre os anúncios, se necessário */
+      padding: 0 8px; /* Adicione algum espaçamento entre os anúncios, se necessário */
     }
   </style>
 </head>

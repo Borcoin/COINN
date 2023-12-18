@@ -74,7 +74,6 @@
     <!-- Código do segundo anúncio do Google AdSense aqui -->
   </div>
 
-</body>
     <body>
 
   <div style="float: left; width: 50%;">

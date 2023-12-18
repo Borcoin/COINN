@@ -75,16 +75,4 @@
     <header>
 	    <script type='text/javascript' src='//conjunctionrepresentativepowerless.com/21/c8/05/21c8059ac7a730f835550879cf3d7a36.js'></script>
     </header>
-    <header>
-	    <script type="text/javascript">
-	atOptions = {
-		'key' : '32a3921042f800091bb1ad96c37de5a0',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//conjunctionrepresentativepowerless.com/32a3921042f800091bb1ad96c37de5a0/invoke.js"></scr' + 'ipt>');
-</script>
-    </header>
 </html>

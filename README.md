@@ -16,7 +16,7 @@
   </style>
 <body>
 
-  <div style="float: left; width: 100%;">
+  <div style="float: left; width: 80%;">
 	  <script type="text/javascript">
 	atOptions = {
 		'key' : 'f174b822b902ac519112de39d7f637ca',
@@ -29,7 +29,7 @@
 </script>
   </div>
 
-  <div style="float: left; width: 100%;">
+  <div style="float: left; width: 80%;">
 	  <script type="text/javascript">
 	atOptions = {
 		'key' : 'f174b822b902ac519112de39d7f637ca',
@@ -75,8 +75,6 @@
   </div>
 
 </body>
-	    </body>
-    </header>
     <body>
 
   <div style="float: left; width: 50%;">

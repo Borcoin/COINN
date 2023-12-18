@@ -6,6 +6,7 @@
     <title>Seu Título Aqui</title>
 </head>
 <body>
+	background-color: #000000;
     <!-- Conteúdo da página vai aqui -->
 </body>
     <header>

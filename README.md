@@ -6,7 +6,7 @@
   <style>
     .anuncio {
       float: left;
-      width: 60%; /* Ou ajuste a largura desejada para cada anúncio */
+      width: 50%; /* Ou ajuste a largura desejada para cada anúncio */
       box-sizing: border-box;
       padding: 0 8px; /* Adicione algum espaçamento entre os anúncios, se necessário */
     }

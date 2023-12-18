@@ -58,32 +58,30 @@
 </script>
 	    </body>
     </header>
-    <header>
-	    <body>
-		    <script type="text/javascript">
-	atOptions = {
-		'key' : '5969a9ace56ed43744c85f0ba59710b5',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//conjunctionrepresentativepowerless.com/5969a9ace56ed43744c85f0ba59710b5/invoke.js"></scr' + 'ipt>');
-</script>
+    <body>
+
+  <div style="float: left; width: 50%;">
+    <!-- Código do primeiro anúncio do Google AdSense aqui -->
+  </div>
+
+  <div style="float: left; width: 50%;">
+    <!-- Código do segundo anúncio do Google AdSense aqui -->
+  </div>
+
+</body>
 	    </body>
     </header>
-    <header>
-	    <script type="text/javascript">
-	atOptions = {
-		'key' : '32a3921042f800091bb1ad96c37de5a0',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//conjunctionrepresentativepowerless.com/32a3921042f800091bb1ad96c37de5a0/invoke.js"></scr' + 'ipt>');
-</script>
-    </header>
+    <body>
+
+  <div style="float: left; width: 50%;">
+    <!-- Código do primeiro anúncio do Google AdSense aqui -->
+  </div>
+
+  <div style="float: left; width: 50%;">
+    <!-- Código do segundo anúncio do Google AdSense aqui -->
+  </div>
+
+</body>
     <body>
 
   <div style="float: left; width: 50%;">

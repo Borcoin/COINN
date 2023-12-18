@@ -96,4 +96,15 @@
 	document.write('<scr' + 'ipt type="text/javascript" src="//conjunctionrepresentativepowerless.com/7880b5fa89be7424fff5619abe1317c4/invoke.js"></scr' + 'ipt>');
 </script> 
     </header>
+    <body>
+
+  <div style="float: left; width: 50%;">
+    <!-- Código do primeiro anúncio do Google AdSense aqui -->
+  </div>
+
+  <div style="float: left; width: 50%;">
+    <!-- Código do segundo anúncio do Google AdSense aqui -->
+  </div>
+
+</body>
 </html>

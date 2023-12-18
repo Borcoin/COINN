@@ -15,11 +15,30 @@
 <body>
 
   <div class="anuncio">
-    <!-- Código do primeiro anúncio aqui -->
+    <script type="text/javascript">
+	atOptions = {
+		'key' : 'f174b822b902ac519112de39d7f637ca',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//conjunctionrepresentativepowerless.com/f174b822b902ac519112de39d7f637ca/invoke.js"></scr' + 'ipt>');
+</script>
   </div>
 
   <div class="anuncio">
-    <!-- Código do segundo anúncio aqui -->
+  <script type="text/javascript">
+	atOptions = {
+		'key' : 'f174b822b902ac519112de39d7f637ca',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//conjunctionrepresentativepowerless.com/f174b822b902ac519112de39d7f637ca/invoke.js"></scr' + 'ipt>');
+</script>
+    
   </div>
 
 </body>

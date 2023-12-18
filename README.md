@@ -30,8 +30,7 @@
 	document.write('<scr' + 'ipt type="text/javascript" src="//conjunctionrepresentativepowerless.com/7880b5fa89be7424fff5619abe1317c4/invoke.js"></scr' + 'ipt>');
 </script>
     </div>
-
-    <div class="anuncio">
+	  <div class="anuncio">
     <script type="text/javascript">
 	atOptions = {
 		'key' : '7880b5fa89be7424fff5619abe1317c4',

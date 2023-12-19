@@ -33,14 +33,14 @@
                 document.getElementById('countdown').innerText = seconds;
                 setTimeout(countdown, 1000);
             } else {
+                // Incrementar o contador de recarregamentos antes de ocultar a área de anúncios
+                reloadCount++;
+                document.getElementById('reloadTimes').innerText = reloadCount;
+
                 // Ocultar a área de anúncios após a contagem regressiva
                 document.getElementById('ads').style.display = 'none';
                 // Exibir o conteúdo principal
                 document.getElementById('content').style.display = 'block';
-
-                // Incrementar o contador de recarregamentos
-                reloadCount++;
-                document.getElementById('reloadTimes').innerText = reloadCount;
 
                 // Redirecionar a página após 15 segundos
                 setTimeout(function() {

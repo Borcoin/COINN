@@ -17,11 +17,15 @@
     <div id="ads">
         <p>Anúncio Aqui</p>
         <p>Contagem Regressiva: <span id="countdown">15</span> segundos</p>
+        <p id="reloadCount">Esta página foi recarregada <span id="reloadTimes">0</span> vezes.</p>
     </div>
 
     <script>
         // Contagem regressiva de 15 segundos
         let seconds = 15;
+
+        // Contador de recarregamentos
+        let reloadCount = 0;
 
         function countdown() {
             if (seconds > 0) {
@@ -33,6 +37,10 @@
                 document.getElementById('ads').style.display = 'none';
                 // Exibir o conteúdo principal
                 document.getElementById('content').style.display = 'block';
+
+                // Incrementar o contador de recarregamentos
+                reloadCount++;
+                document.getElementById('reloadTimes').innerText = reloadCount;
 
                 // Redirecionar a página após 15 segundos
                 setTimeout(function() {

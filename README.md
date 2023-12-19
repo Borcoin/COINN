@@ -24,8 +24,15 @@
         // Contagem regressiva de 15 segundos
         let seconds = 15;
 
-        // Contador de recarregamentos
-        let reloadCount = 0;
+        // Recuperar o contador de recarregamentos do armazenamento local
+        let reloadCount = parseInt(localStorage.getItem('reloadCount')) || 0;
+
+        function updateReloadCount() {
+            // Atualizar a exibição do contador
+            document.getElementById('reloadTimes').innerText = reloadCount;
+            // Salvar o contador no armazenamento local
+            localStorage.setItem('reloadCount', reloadCount);
+        }
 
         function countdown() {
             if (seconds > 0) {
@@ -35,7 +42,7 @@
             } else {
                 // Incrementar o contador de recarregamentos antes de ocultar a área de anúncios
                 reloadCount++;
-                document.getElementById('reloadTimes').innerText = reloadCount;
+                updateReloadCount();
 
                 // Ocultar a área de anúncios após a contagem regressiva
                 document.getElementById('ads').style.display = 'none';
@@ -50,7 +57,11 @@
         }
 
         // Iniciar a contagem regressiva quando a página carregar
-        window.onload = countdown;
+        window.onload = function() {
+            countdown();
+            // Atualizar o contador exibido na carga inicial
+            updateReloadCount();
+        };
     </script>
 
 </body>

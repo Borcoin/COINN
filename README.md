@@ -75,7 +75,7 @@
     <div class="container">
         <h1>MELHORES JOGOS FREE TO PLAY</h1>
         <p>Colete ouros e Transforme em moedas para converter em Dinheiro</p>
-        <a href="https://cryptoscoop.online/r=10452" class="button-link"><button>CRYPTOSCOOP</button></a>
+        <a href=" https://cryptoscoop.online/?r=10452" class="button-link"><button>CRYPTOSCOOP</button></a>
         <p>Jogue e aumente seu poder para minerar criptomoedas</p>
         <a href="https://limercoin.com/?ref=y92kvffv" class="button-link"><button>LIMERCOIN</button></a>
         <p>Jogue e compra tarefas para aumentar seu poder, e conseguir criptomoedas.</p>

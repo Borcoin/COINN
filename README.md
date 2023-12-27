@@ -11,7 +11,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            min-height: 100vh; /* Pelo menos 100% da altura da viewport */
+            min-height: 80vh; /* Pelo menos 100% da altura da viewport */
             display: flex;
             flex-direction: column;
             justify-content: center;

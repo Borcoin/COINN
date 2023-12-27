@@ -1,7 +1,6 @@
 
 <html lang="en">
 <head>
-    <meta name="coinzilla" content="b99ab1beb241e5a4044ae2115531145b" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jogos para Ganhar Dinheiro</title>

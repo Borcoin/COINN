@@ -16,10 +16,6 @@
     </style>
 </head>
 <body>
-<iframe data-aa='2289541' src='//ad.a-ads.com/2289541?size=320x50' style='width:320px; height:50px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-
-</body>
-<body>
 
 <iframe data-aa='2289541' src='//ad.a-ads.com/2289541?size=320x50' style='width:320px; height:50px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
     

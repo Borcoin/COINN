@@ -83,7 +83,7 @@
         <p>
             descrição
         </p>
-        <a>https://camelbtc.com/?ref=101566 class="button-link
+        <a href="https://camelbtc.com/?ref=101566" class="button-link
             <button>CAMEL BTC</button>
  </a>
     </div>

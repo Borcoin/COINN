@@ -31,8 +31,6 @@
             letter-spacing: 4px; /* Adiciona espaçamento entre as letras */
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Adiciona contorno preto */
         }
-    h2 {
-      font-family: "Press Start 2P", sans-serif;
 
         p {
             font-size: 1.2em;
@@ -88,7 +86,6 @@
         <h2>
 DIVIRTA-SE JOGANDO E GANHANDO ♡           
         </h2>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap"
 </header>
     </div>
     

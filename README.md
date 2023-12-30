@@ -82,10 +82,12 @@
         <a href="https://www.miningblocks.club/?Referral=70331" class="button-link"><button>MININGBLOCKS</button></a>
         <p>Colete recursos para ganhar recompensas em criptomoedas</p>
         <a href="https://camelbtc.com/?ref=101566" class="button-link"><button>CAMEL BTC</button></a> 
- <h2>
-DIVIRTA-SE JOGANDO E GANHANDO
-            
+<header>
+        <h2>
+DIVIRTA-SE JOGANDO E GANHANDO            
         </h2>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap"
+</header>
     </div>
     
 </body>

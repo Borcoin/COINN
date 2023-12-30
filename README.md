@@ -81,9 +81,12 @@
 https://limercoin.com/ref=y92kvffv"
 target="_blank"><button>LIMERCOIN</button></a>
         <p>Jogue e compra tarefas para aumentar seu poder, e conseguir criptomoedas.</p>
-        <a href="https://www.miningblocks.club/?Referral=70331"target="_blank"><button>MININGBLOCKS</button></a>
+        <a href="
+https://www.miningblocks.club/Referral=70331"target="_blank"><button>MININGBLOCKS</button></a>
         <p>Colete recursos para ganhar recompensas em criptomoedas</p>
-        <a href="https://camelbtc.com/?ref=101566"target="_blank"><button>CAMEL BTC</button></a> 
+        <a href="
+https://camelbtc.com/ref=101566"
+target="_blank"><button>CAMEL BTC</button></a> 
 <header>
         <h2>
 DIVIRTA-SE JOGANDO E GANHANDO ♡           

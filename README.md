@@ -77,7 +77,9 @@
         <p>Colete ouros e Transforme em moedas para converter em Dinheiro</p>
         <a href=" https://cryptoscoop.online/?r=10452" target="_blank"><button>CRYPTOSCOOP</button></a>
         <p>Jogue e aumente seu poder para minerar criptomoedas</p>
-        <a href="https://limercoin.com/?ref=y92kvffv"target="_blank"><button>LIMERCOIN</button></a>
+        <a href="
+https://limercoin.com/ref=y92kvffv"
+target="_blank"><button>LIMERCOIN</button></a>
         <p>Jogue e compra tarefas para aumentar seu poder, e conseguir criptomoedas.</p>
         <a href="https://www.miningblocks.club/?Referral=70331"target="_blank"><button>MININGBLOCKS</button></a>
         <p>Colete recursos para ganhar recompensas em criptomoedas</p>

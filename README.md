@@ -72,6 +72,11 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap">
 </head>
 <body>
+    <script type="text/javascript">
+    aclib.runAutoTag({
+        zoneId: 'fnch0ddhhc',
+    });
+</script>
     <div class="container">
         <h1>MELHORES JOGOS FREE TO PLAY</h1>
         <p>Colete ouros e Transforme em moedas para converter em Dinheiro</p>

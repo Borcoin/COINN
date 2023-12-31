@@ -81,8 +81,7 @@
 https://limercoin.com/ref=y92kvffv"
 target="_blank"><button>LIMERCOIN</button></a>
         <p>Jogue e compra tarefas para aumentar seu poder, e conseguir criptomoedas.</p>
-        <a href="
-https://miningblocks.club/Referral=70331"
+ <a href="https://miningblocks.club/Referral=70331"
 target="_blank"><button>MININGBLOCK</button>
 </a>
         <p>Colete recursos para ganhar recompensas em criptomoedas</p>

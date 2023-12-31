@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
     <title>Jogos para Ganhar Dinheiro</title>
     <style>
         body {

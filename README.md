@@ -73,7 +73,6 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap">
 </head>
 <body>
-    <script data-cfasync="false" type="text/javascript" src="//brightadnetwork.com/a/display.php?r=7903578"></script>
     <script type="text/javascript">
     aclib.runAutoTag({
         zoneId: 'fnch0ddhhc',
@@ -100,6 +99,7 @@ DIVIRTA-SE JOGANDO E GANHANDO ♡
         </h2>
 </header>
     </div>
+    <script data-cfasync="false" type="text/javascript" src="//brightadnetwork.com/a/display.php?r=7903578"></script>
     
 </body>
 <body>

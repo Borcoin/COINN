@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
     <title>Jogos para Ganhar Dinheiro</title>
     <style>
         body {
@@ -73,11 +72,6 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap">
 </head>
 <body>
-    <script type="text/javascript">
-    aclib.runAutoTag({
-        zoneId: 'fnch0ddhhc',
-    });
-</script>
     <div class="container">
         <h1>MELHORES JOGOS FREE TO PLAY</h1>
         <p>Colete ouros e Transforme em moedas para converter em Dinheiro</p>
@@ -89,7 +83,6 @@ target="_blank"><button>LIMERCOIN</button></a>
         <p>Jogue e compra tarefas para aumentar seu poder, e conseguir criptomoedas.</p>
 
 <button>MININGBLOCK</button>
-
         <p>Colete recursos para ganhar recompensas em criptomoedas</p>
  <a href="https://camelbtc.com/?ref=101566"
 target="_blank"><button>CAMEL BTC</button></a> 
@@ -98,8 +91,6 @@ target="_blank"><button>CAMEL BTC</button></a>
 DIVIRTA-SE JOGANDO E GANHANDO ♡           
         </h2>
 </header>
-    </div>
-    <script data-cfasync="false" type="text/javascript" src="//brightadnetwork.com/a/display.php?r=7903578"></script>
-    
+    </div>    
 </body>
 <body>

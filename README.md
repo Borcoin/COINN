@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -64,12 +63,24 @@
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            margin: 5px; /* Adiciona margem entre os botões */
+            margin: 5px; 
+           
         }
-
-        /* Adicione mais estilos conforme necessário */
+  
+        img {
+          position: absolute;
+          top: 39px;
+          left: 11px;
+          width: 25px;
+          heigth: 10px;
+    
+    
+  }
+    
     </style>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap">
+<img src="sonic.gif"
+
 </head>
 <body>
     <div class="container">
@@ -93,4 +104,3 @@ DIVIRTA-SE JOGANDO E GANHANDO ♡
 </header>
     </div>    
 </body>
-<body>

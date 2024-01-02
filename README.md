@@ -79,7 +79,7 @@
     
     </style>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap">
-<img src="sonic.gif"
+
 
 </head>
 <body>
